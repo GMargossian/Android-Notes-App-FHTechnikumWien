@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Notes Application</string>
+    <string name="add_note">New Note</string>
+    <string name="notes_presentation_text">This are your notes:</string>
+    <string name="add_new_note_text_button">Add New Note Button</string>
+    <string name="add_note_title">Add new note</string>
+    <string name="add_note_body_title">Body</string>
+    <string name="create_new_note_submit_title">Create</string>
+    <string name="add_note_title_title">Title</string>
+    <string name="title_input_placeholder">Add title here</string>
+    <string name="body_input_placeholder">Add description here</string>
+    <string name="fragment_toolbar_title">My Awesome Notes</string>
+</resources>

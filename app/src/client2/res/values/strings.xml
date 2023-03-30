@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mi Aplicación de Notas </string>
+    <string name="add_note">Nueva Nota</string>
+    <string name="notes_presentation_text">Estas son tus notas:</string>
+    <string name="add_new_note_text_button">Agregar Nuevo Botón de Texto</string>
+    <string name="add_note_title">Agregar Nueva Nota</string>
+    <string name="add_note_body_title">Cuerpo</string>
+    <string name="create_new_note_submit_title">Crear</string>
+    <string name="add_note_title_title">Titulo</string>
+    <string name="title_input_placeholder">Nuevo titulo aquí</string>
+    <string name="body_input_placeholder">Nueva descripción aquí</string>
+    <string name="fragment_toolbar_title">Mis asombrosas notas</string>
+</resources>
